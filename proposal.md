@@ -7,8 +7,8 @@
 
 
 ### Repositorios
-* [frontend app](https://github.com/nuriafornells/frontendTP.git)
-* [backend app](https://github.com/nuriafornells/backendTP.git)
+* [Monorepo FrontEnd y Backend](https://github.com/nuriafornells/monorepoTP.git)
+
 
 
 ## Tema
