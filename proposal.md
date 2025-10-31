@@ -21,6 +21,7 @@ El proyecto consiste en el desarrollo de una aplicación web full stack para una
 
 
 MD en draw.io: https://drive.google.com/file/d/1fIw_y52k2I7hz1cHX3uEgDLWok7ewhlU/view?usp=sharing
+![IMAGEN MD: ](image.png)
 
 ## Alcance funcional
 ### Alcance minimo
